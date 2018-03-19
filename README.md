@@ -1,3 +1,1 @@
-"# IndianaInteractive" 
-"# IndianaInteractive" 
-"# IndianaInteractive" 
+Coding assessment for Indiana Interactive
